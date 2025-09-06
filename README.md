@@ -1,24 +1,4 @@
-<h1 align="center">
-  Hi there, I'm Abbas Hosseini 👋
-</h1>
 
-
-## 🛠️ My Tech Stack
-
-Here are some of the technologies I work with:
-
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## 📊 My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/abbashosseinii">
